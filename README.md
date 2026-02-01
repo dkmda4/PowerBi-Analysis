@@ -36,6 +36,7 @@ This dashboard provides a high-level view of environmental stress, economic resi
 
 Focus: analytical reasoning and segmentation
 
+<img width="2331" height="1314" alt="Screenshot 2026-02-01 at 01 13 47" src="https://github.com/user-attachments/assets/c8e21448-5a93-4d1f-b4e2-75ba154ad4ab" />
 
 
 This dashboard explores how resource dependency, supply chain disruption, and inflation influence a country’s trade vulnerability.
