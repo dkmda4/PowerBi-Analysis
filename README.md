@@ -60,6 +60,9 @@ This dashboard explores how resource dependency, supply chain disruption, and in
 
 Focus: time series and forecasting-style insight
 
+<img width="772" height="724" alt="Screenshot 2026-02-03 at 15 00 13" src="https://github.com/user-attachments/assets/3dba2257-aeca-46ff-8b88-ed1b2e250544" />
+
+
 This dashboard analyses population growth over time to identify fast-growth and stable-growth countries.
 
 **Key capabilities:**
@@ -86,7 +89,7 @@ This dashboard analyses population growth over time to identify fast-growth and 
 
 
 
-##💡 About This Portfolio
+## 💡 About This Portfolio
 
 These projects were created to demonstrate real-world analytical thinking, not just visual design.
 
