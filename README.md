@@ -102,21 +102,26 @@ The focus across all dashboards is on:
 
 ## 🧠 Key Takeaways:
 
-- Countries with high population pressure often also experience high environmental stress.
-- Resource dependency and supply chain risk do not affect all regions equally.
-- Some high-risk countries show lower economic resilience, making them more vulnerable.
-- Different indicators highlight different types of risk, so using multiple metrics gives a clearer picture.
+	• Countries with high population pressure often also experience high environmental stress.
+	• Resource dependency and supply chain risk do not affect all regions equally.
+	• Some high-risk countries show lower economic resilience, making them more vulnerable.
+	• Different indicators highlight different types of risk, so using multiple metrics gives a clearer picture.
 
 
   ## ⚠️ Limitations
 
-- This analysis is based on historical data and does not reflect real-time conditions.
-- The indicators are aggregated at country level and do not capture regional variation.
-- The project focuses on identifying patterns, not predicting future outcomes.
-- Data quality depends on how consistently countries report their metrics.
+	• This analysis is based on historical data and does not reflect real-time conditions.
+	• The indicators are aggregated at country level and do not capture regional variation.
+	• The project focuses on identifying patterns, not predicting future outcomes.
+	• Data quality depends on how consistently countries report their metrics.
 
   ## 📌 Conclusion
 
 This Power BI dashboard shows how population growth, environmental stress and resource dependency interact across countries and regions. By combining multiple datasets and using calculated measures, the project highlights areas of increased vulnerability and risk.
 
 The project demonstrates practical skills in data modelling, DAX, segmentation and building interactive dashboards for analytical insight.
+
+## 📬 Contact
+
+If you’d like to discuss this project or provide feedback, feel free to connect via GitHub or LinkedIn.
+
